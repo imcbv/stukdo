@@ -6,3 +6,7 @@
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome/), scalable vector icons that can be customized
 * [Simple Form](https://github.com/plataformatec/simple_form), components to create forms
 * [Devise](https://github.com/plataformatec/devise), authentication solution
+
+# Other Resources
+* [Balsamiq](https://balsamiq.com), wireframing software
+* [Bootply](http://www.bootply.com), bootstrap playground with snippets, examples and templates
