@@ -1,6 +1,6 @@
 # Stukdo
-## Simple To Do list web app created following the [stuk.io](https://stuk.io) courses using [Ruby on Rails](http://rubyonrails.org)
-#### [Live Preview](https://murmuring-bastion-6335.herokuapp.com)
+Simple To Do list web app created following the [stuk.io](https://stuk.io) courses using [Ruby on Rails](http://rubyonrails.org)
+[Live Preview](https://murmuring-bastion-6335.herokuapp.com)
 ### Libraries
 * [Boostrap](http://getbootstrap.com), tools for creating website and web application interfaces
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome/), scalable vector icons that can be customized
